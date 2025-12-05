@@ -70,5 +70,5 @@ I have implemented adapters for different vector stores to compare their DX (Dev
 
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/yourusername/rag-zero-to-hero.git](https://github.com/yourusername/rag-zero-to-hero.git)
-   cd rag-zero-to-hero
+   git clone [https://github.com/YuvanShankar2006/Retrieval_Augmention_Generation.git](https://github.com/YuvanShankar2006/Retrieval_Augmention_Generation.git)
+   cd Retrieval_Augmention_Generation
